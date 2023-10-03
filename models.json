@@ -1,0 +1,102 @@
+{
+  "astonMartin": {
+    "modelo": "Aston Martin DB12",
+    "lanzamiento": "Mayo 2023",
+    "precio": "Desde USD$300,000",
+    "motor": "4.0L V8, automático",
+    "potencia": "680CV, 800Nm",
+    "accel": "3.5 segundos",
+    "velocidadMax": "326 km/h",
+    "resumen": "El Aston Martin DB12 es un nuevo modelo que marca un cambio significativo en la historia de la marca. Se presenta como el 'primer Super Tourer del mundo' al combinar una experiencia de conducción emocionante con refinamiento, tecnología de vanguardia y lujo indulgente.",
+    "imagenes": [
+      "./img/astonmartin/astonmartin-1.jpg",
+      "./img/astonmartin/astonmartin-2.jpg",
+      "./img/astonmartin/astonmartin-3.jpg",
+      "./img/astonmartin/astonmartin-4.jpg",
+      "./img/astonmartin/astonmartin-5.jpg"
+    ],
+    "detalle1": "Aston Martin se enorgullece de presentar el nuevo DB12, que representa un cambio cuántico en el carácter deportivo y la capacidad dinámica, estableciendo su propia categoría. El DB12 combina una experiencia de conducción electrizante con una refinación excepcional, tecnología de vanguardia y lujo indulgente, convirtiéndose en el primer 'Super Tourer' del mundo. ",
+    "detalle2": "Este modelo cuenta con un motor V8 Twin-Turbo de 680 PS y 800 Nm de par motor, junto con una serie de mejoras en la estructura, suspensión y dirección para ofrecer un rendimiento excepcional y una agilidad impresionante. El DB12 se beneficia de un sistema de control electrónico de estabilidad líder en la industria, que permite al conductor elegir entre cinco modos de conducción preestablecidos para explorar los límites de agarre y tracción con confianza y seguridad. También presenta una serie de características de alto rendimiento, como frenos de disco de hierro fundido y neumáticos Michelin Pilot Sport 5 S especialmente diseñados. Además, se ofrece la opción de frenos de cerámica de carbono para un mejor rendimiento de frenado.",
+    "detalle3": "En su exterior, el DB12 presenta un diseño audaz y musculoso con detalles modernos y lujo en su interior. Cuenta con una cabina completamente rediseñada con un enfoque en el conductor, una nueva generación de sistemas de infoentretenimiento y una aplicación móvil conectada. También ofrece un sistema de sonido envolvente de alta calidad desarrollado en colaboración con Bowers & Wilkins. El Aston Martin DB12 representa una nueva era para la marca y establece un nuevo estándar en términos de rendimiento, tecnología y lujo. El modelo se lanzará en el tercer trimestre de 2023 y se posiciona como el 'Super Tourer' definitivo que combina un rendimiento excepcional con una experiencia de conducción de alto nivel y una atención al detalle inigualable."
+  },
+  "acuraNSX": {
+    "modelo": "Acura NSX Type S",
+    "lanzamiento": "Febrero 2022",
+    "precio": "Desde USD$169,500",
+    "motor": "3.5L V6 híbrido, automático",
+    "potencia": "600CV, 667Nm",
+    "accel": "2.9 segundos",
+    "velocidadMax": "307 km/h",
+    "resumen": "Ofreciendo una aceleración más rápida, una mejor capacidad de tomar curvas y una experiencia de conducción más emocional que cualquier otro NSX de carretera, el Type S es la expresión definitiva del compromiso de la marca con el Rendimiento de Precisión.",
+    "imagenes": [
+      "./img/acura/acura-1.jpg",
+      "./img/acura/acura-2.jpg",
+      "./img/acura/acura-3.jpg",
+      "./img/acura/acura-4.jpg",
+      "./img/acura/acura-5.jpg"
+    ],
+    "detalle1": "Ofreciendo una aceleración más rápida, un mejor manejo en curvas y una experiencia de conducción más emocional que cualquier otro NSX de carretera, el nuevo Acura NSX Type S del 2022 con 600 caballos de fuerza eleva aún más el impresionante rendimiento del superdeportivo electrificado de vanguardia. Haciendo su debut global durante la famosa Monterey Car Week de 2021, el NSX Type S es la máxima expresión del compromiso de la marca con el Rendimiento de Precisión y establece firmemente al Type S como el emblema de rendimiento de Acura.",
+    "detalle2": "En celebración del último año de producción de la segunda generación del NSX, cada Acura NSX del 2022 producido en el Performance Manufacturing Center en Marysville, Ohio, será un modelo Type S. Se construirán solo 350 unidades de este superdeportivo de edición limitada para distribución global, con 300 unidades destinadas a clientes de EE. UU., marcando la primera vez que un NSX Type S se vende fuera de Japón.",
+    "detalle3": "El NSX Type S se distingue por su estilo frontal y trasero distintivo y más agresivo, ruedas únicas de 5 radios, neumáticos Pirelli P-Zero de mayor adherencia, un sistema de amortiguadores adaptativos ajustado, calcomanías Type S, un techo de fibra de carbono estándar y la opción de pintura mate Gotham Gray. Bajo la cubierta del motor de fibra de carbono disponible se encuentra el tren motriz de producción más potente de Acura hasta ahora: una versión actualizada del motor V6 sobrealimentado gemelo y el sistema híbrido de tres motores que producen 600 caballos de fuerza y 492 lb-pie de torque."
+  },
+  "audiTTRS": {
+    "modelo": "Audi TTRS Iconic Edition",
+    "lanzamiento": "Q1 2023",
+    "precio": "Desde USD$118,500",
+    "motor": "2.5L 5 cilindros, automático",
+    "potencia": "400CV, 480Nm",
+    "accel": "3.7 segundos",
+    "velocidadMax": "280 km/h",
+    "resumen": "El Audi TT está llegando a sus últimos años de vida y por ello la marca de los cuatro aros ya ha comenzado a lanzar ediciones especiales a modo de despedida como la Iconic Edition, en un claro homenaje a los 25 años de existencia del popular deportivo alemán.",
+    "imagenes": [
+      "./img/audi/audi-1.jpg",
+      "./img/audi/audi-2.jpg",
+      "./img/audi/audi-3.jpg",
+      "./img/audi/audi-4.jpg",
+      "./img/audi/audi-5.jpg"
+    ],
+    "detalle1": "Exclusivo y enfocado en el rendimiento: el lanzamiento en el mercado del Audi TT RS Coupé edición icónica, limitado a 100 unidades en Europa con 11 ejemplares destinados al Reino Unido, celebrará la historia de éxito de un cuarto de siglo para el Audi TT Coupé. Este icónico automóvil deportivo ha sido una fuente de inspiración en todo el mundo desde su estreno en 1998 debido a su dinámica de conducción pura y diseño atemporal. La edición limitada del Audi TT RS Coupé edición icónica se destaca por su legendario rendimiento de cinco cilindros combinado con elementos de diseño deportivo, tanto en el exterior como en el interior.",
+    "detalle2": "Eterno a través del tiempo: el TT ha sido el ícono de diseño de Audi durante casi un cuarto de siglo. Ahora, el Audi TT RS Coupé edición icónica continúa la tendencia hacia el futuro, siendo un automóvil deportivo con nuevas innovaciones mientras conserva las propiedades típicas del TT RS: diseño y dinámica.'El nombre del Audi TT RS Coupé edición icónica lo dice todo', dice Sebastian Grams, Director General de Audi Sport GmbH. 'El modelo de edición recuerda al icónico lenguaje de diseño del TT, que al mismo tiempo representa valentía y elegancia en una forma intransigente. Gracias a los exclusivos aspectos destacados exteriores e interiores, el apreciado rendimiento de nuestro último cupé deportivo definitivo, con su motor de cinco cilindros galardonado en múltiples ocasiones, no solo es palpable, sino también visible para los fanáticos'.",
+    "detalle3": "El Audi TT RS Coupé edición icónica es una edición limitada exclusiva que celebra los 25 años de historia del Audi TT Coupé. Con un diseño atemporal y un rendimiento legendario de cinco cilindros, este automóvil deportivo se destaca por su elegancia y deportividad. Además, presenta mejoras aerodinámicas y detalles exclusivos en su interior que lo hacen destacar entre la multitud."
+  },
+  "bmwM8": {
+    "modelo": "BMW M8 Gran Coupé",
+    "lanzamiento": "Marzo 2022",
+    "precio": "Desde USD$140,800",
+    "motor": "4.4L V8, automático",
+    "potencia": "625CV, 750Nm",
+    "accel": "2.7 segundos",
+    "velocidadMax": "250 km/h",
+    "resumen": "El BMW M8 Competition Coupé destaca por su combinación de un rendimiento sublime, lujo cautivador y una presencia imponente y con toda la intensidad de su versión dos puertas, pero con más lugar para el público.",
+    "imagenes": [
+      "./img/bmw/bmw-1.jpg",
+      "./img/bmw/bmw-2.jpg",
+      "./img/bmw/bmw-3.jpg",
+      "./img/bmw/bmw-4.jpg",
+      "./img/bmw/bmw-5.jpg"
+    ],
+    "detalle1": "El BMW M8 Competition Gran Coupé se destaca por su excepcional rendimiento, lujo cautivador y presencia imponente. En primavera de 2022, BMW M GmbH introducirá modificaciones en su diseño y mejoras en su tecnología de control y operación.",
+    "detalle2": "Como parte de la línea de lujo, ofrece un rendimiento excepcional gracias a su motor V8 con tecnología M TwinPower Turbo que desarrolla 460 kW/625 hp y 750 Nm de par máximo. Este motor se combina con una transmisión automática M Steptronic de ocho velocidades y tracción integral M xDrive. El chasis ha sido ajustado específicamente para este modelo y utiliza tecnología de suspensión electrónica y dirección electromecánica M Servotronic. Además, se pueden seleccionar frenos cerámicos M Carbon como opción. En cuanto al diseño exterior, presenta una serie de nuevos colores y detalles visuales, incluyendo el M lights Shadow Line y ruedas de aleación M en diseño de radios estrella de 20 pulgadas. El interior combina la estética característica de M con lujo moderno y ofrece asientos deportivos M y la opción de asientos M Carbon bucket. La tapicería estándar es de cuero Merino/Alcántara y está disponible en una nueva combinación de colores Negro/Sakhir Orange.",
+    "detalle3": "Como conclusión, el BMW M8 Competition Gran Coupé es un vehículo de alto rendimiento y lujo que ofrece una experiencia de conducción emocionante, tecnología avanzada y un diseño elegante y deportivo. Con su potente motor V8, tracción integral y ajustes específicos para un rendimiento óptimo, este vehículo representa la cima de la línea de modelos de BMW M y se destaca en el segmento de lujo."
+  },
+  "dodgeSRT": {
+    "modelo": "Dodge Challenger SRT Demon",
+    "lanzamiento": "Julio 2023",
+    "precio": "Desde USD$100,300",
+    "motor": "6.2L V8, automático",
+    "potencia": "900CV, 1098Nm",
+    "accel": "1.66 segundos",
+    "velocidadMax": "346 km/h",
+    "resumen": "Para 2024, Dodge resucita el apodo de Demon; casi idéntico al anterior, pero ahora presenta el mal con hasta 1025 caballos de fuerza. El Demon 170 es la versión final de la serie 'Last Call' de Dodge, con solo 3300 unidades producidas.",
+    "imagenes": [
+      "./img/dodge/dodge-1.jpg",
+      "./img/dodge/dodge-2.jpg",
+      "./img/dodge/dodge-3.jpg",
+      "./img/dodge/dodge-4.jpg",
+      "./img/dodge/dodge-5.jpg"
+    ],
+    "detalle1": "Dodge ha presentado el 2023 Dodge Challenger SRT Demon 170, el automóvil de alto rendimiento más rápido, potente y veloz del mundo. Este modelo especial de edición limitada cuenta con un motor HEMI de producción de 1.025 caballos de fuerza, alcanza los 60 mph en solo 1.66 segundos y ofrece una aceleración de fuerza G más alta que cualquier otro automóvil de producción. Además, es el primer automóvil de producción de fábrica en correr el cuarto de milla en menos de nueve segundos, con un tiempo certificado de 8.91 segundos.",
+    "detalle2": "El Dodge Challenger SRT Demon 170 se fabricará en una edición limitada de hasta 3,300 unidades y estará disponible a partir del verano de 2023. Cuenta con numerosas mejoras en sus componentes, incluyendo un supercargador modificado, actualizaciones en el sistema de alimentación de combustible y una nueva suspensión de arrastre específicamente ajustada. Además, presenta ruedas traseras de arrastre masivas y un innovador TransBrake 2.0 que permite a los conductores configurar perfiles de torque de lanzamiento personalizados.",
+    "detalle3": "El automóvil se ofrecerá en una variedad de colores exteriores y viene con un conjunto exclusivo de productos y accesorios personalizados para los propietarios, incluyendo un decantador con el número de serie y una placa conmemorativa. Dodge celebra así el final de la era de los motores HEMI en los Challenger y Charger, que llegarán a su fin en su forma actual a finales de 2023."
+  }
+}

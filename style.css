@@ -1,0 +1,100 @@
+* {
+  font-family: Montserrat, sans-serif;
+  margin: 0;
+}
+
+/* Navbar */
+
+.navbar {
+  background-color: #ffffff;
+}
+
+/* Body */
+
+body {
+  padding-top: 40px;
+}
+
+/* Sección Bienvenida */
+
+#bienvenida {
+  color: #ffffff;
+}
+
+#bienvenidaTexto {
+  position: absolute;
+  z-index: 1;
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+  width: 5%;
+}
+
+/* Sección Modelos */
+
+#listaModelos {
+  list-style: none;
+}
+
+#listaModelos p {
+  font-weight: 100;
+  font-size: 1rem;
+}
+
+.modelo-auto:nth-child(even) {
+  background-color: rgb(230, 230, 230);
+}
+
+.btn {
+  border-color: black;
+  text-transform: uppercase;
+  font-weight: 800;
+  white-space: nowrap;
+}
+
+/* Características en detalle */
+
+.categoria:nth-child(odd) {
+  font-weight: 700;
+  background-color: rgb(207, 207, 207);
+}
+
+#caracteristicas * {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
+/* Footer */
+
+footer * {
+  color: white;
+  font-weight: 500;
+  background-color: rgb(0, 0, 0);
+}
+
+footer ul {
+  list-style-type: none;
+  padding-inline-start: 0px;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+footer p {
+  margin-bottom: 0.5rem;
+}
+
+/* Texto */
+
+h1 {
+  font-weight: bold;
+}
+
+h2 {
+  font-weight: 700;
+}
